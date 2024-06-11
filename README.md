@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center" width="750"><img alt="coding" width="max" src="https://media1.tenor.com/m/lLzF69nk3LsAAAAd/cyberattack.gif"></p>
+<h1 align="center">Hi 👋, I'm Bryan Bollou</h1>
+<h3 align="center">- A passionate Cybersecurity Proffesional, Splunk for MDR and Python Devotee!-</h3>
+<br>
 
-<!--
-**bolloubryan/bolloubryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="coding" width="400" src="https://www.activeblogs.com/wp-content/uploads/2021/08/1628529290971.gif">
+<br>
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working as **Team Lead of Cybersecurity**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [bollou.com](https://bollou.com)
+
+- 💬 Ask me about **Any of the projects on my github! **
+
+- 📫 How to reach me **bolloubryan@gmail.com**
+
+- ⚡ Fun fact **I love running marathon (singular).**
